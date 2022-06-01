@@ -1,2 +1,2 @@
 # personalNotes
-Collection of notes about numerous systems, services, applications etc. Notes were made/translated from various English or Czech resources. Feel free to download, copy and modify to your liking.
+Sbírka poznámek o systémech, službách a aplikacích. Poznámky byly vytvořeny/přeloženy z různých anglických nebo českých zdrojů. Stahujte, kopírujte a upravujte dle svých představ.
